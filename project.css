@@ -1,0 +1,257 @@
+h1{
+
+    text-align: center;
+}
+
+h2{
+
+    text-align: center;
+}
+
+.page-1{
+
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+
+    flex-basis: 10%;
+    display: flex;
+}
+
+.logo{
+
+    background-color: brown;
+    flex-grow: 1;
+}
+
+.menu{
+
+    background-color: blueviolet;
+    flex-grow: 3;
+}
+
+.container-1{
+    background-color: blanchedalmond;
+    flex-basis: 90%;
+    display: flex;
+}
+
+.content{
+
+    background-color:lightgreen;
+    flex-grow: 3.5;
+}
+
+.figure-1{
+
+    background-color: crimson;
+    flex-grow: 4;
+}
+
+.page-2{
+
+    background-color:rgb(159, 159, 193);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-2{
+    background-color: rgb(107, 107, 240);
+    flex-basis: 20%;
+    display: flex;
+}
+
+.container-2{
+
+    background-color:grey;
+    flex-basis: 80%;
+    margin: 10%;
+    margin-top: 0%;
+    display: flex;
+}
+
+.left-2{
+
+    background-color: coral;
+    margin: 3%;
+    flex-grow: 1;
+
+}
+
+.middle-2{
+
+    background-color: coral;
+    margin: 3%;
+    flex-grow: 1;
+
+}
+
+.right-2{
+
+    background-color: coral;
+    margin: 3%;
+    flex-grow: 1;
+
+}
+
+.page-3{
+     
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-3{
+
+    background-color: blanchedalmond;
+    flex-basis: 10%;
+}
+
+.container-3{
+
+    flex-basis: 90%;
+    display: flex;
+}
+
+.figure-3{
+    background-color:lightcoral;
+    flex-grow: 1;
+}
+
+.content-3{
+
+    background-color: rgb(76, 121, 76);
+    flex-grow: 1;
+}
+
+.page-4{
+
+    background-color:rgb(159, 159, 193);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-4{
+    background-color: rgb(107, 107, 240);
+    flex-basis: 20%;
+    display: flex;
+}
+
+.container-4{
+
+    background-color:rgb(130, 97, 97);
+    flex-basis: 80%;
+    margin: 10%;
+    margin-top: 0%;
+    display: flex;
+}
+
+.left-4{
+
+    background-color: rgb(221, 221, 140);
+    margin: 4%;
+    flex-grow: 1;
+
+}
+
+.middle-4{
+
+    background-color: rgb(221, 221, 140);
+    margin: 4%;
+    flex-grow: 1;
+
+}
+
+.right-4{
+
+    background-color: rgb(221, 221, 140);
+    margin: 4%;
+    flex-grow: 1;
+
+}
+
+
+.page-5{
+
+    background-color:rgb(88, 88, 210);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-5{
+    background-color: rgb(107, 107, 240);
+    flex-basis: 20%;
+    display: flex;
+}
+
+.container-5{
+
+    background-color:rgb(130, 97, 97);
+    flex-basis: 80%;
+    margin: 10%;
+    margin-top: 0%;
+    display: flex;
+}
+
+.left-5{
+
+    background-color: rgb(227, 139, 154);
+    margin: 4%;
+    flex-grow: 1;
+
+}
+
+.middle-5{
+
+    background-color: rgb(227, 139, 154);
+    margin: 4%;
+    flex-grow: 1;
+
+}
+
+.right-5{
+
+    background-color: rgb(227, 139, 154);
+    margin: 4%;
+    flex-grow: 1;
+
+}
+
+.page-6{
+
+    background-color: rgb(107, 107, 240);
+    height: 100vh;
+    display: flex;
+}
+
+.container-6{
+
+    flex-basis: 100%;
+    background-color: rgb(107, 107, 240);
+    display: flex;
+    flex-direction: row;   
+}
+
+.figure{
+
+    background-color: lightsalmon;
+     flex-grow: 1;
+}
+
+.form{
+
+    background-color: rgb(243, 121, 121);
+    flex-grow: 1;
+    margin: 4%;
+    margin-left: 0%;
+}
+
+
